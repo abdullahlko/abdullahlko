@@ -1,4 +1,3 @@
-![Banner](https://github.com/abdullahlko/abdullahlko/blob/main/profileBanner.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Abdullah Ansari</h1>
 
 ## 💡 Highlights
