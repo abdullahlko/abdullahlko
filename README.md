@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ansari</h1>
-<h3 align="center">Backend Developer from India | Skilled in C++ & DSA</h3>
+<h3 align="center">Backend Developer from India | Skilled in DSA and Problem Solving</h3>
 
 ## 💡 Highlights
 
