@@ -58,12 +58,11 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahlko&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200" width="350" style="display:inline-block; margin-right:10px;" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahlko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200" width="350" style="display:inline-block; margin-left:10px;" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahlko&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Abdullah's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahlko&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Abdullah's GitHub Stats" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdullahlko&theme=tokyonight&hide_border=true" alt="Abdullah's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=abdullahlko&theme=dark&hide_border=true" alt="Abdullah's GitHub Stats" />
 </p>
