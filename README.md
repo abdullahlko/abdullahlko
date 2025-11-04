@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ansari</h1>
-<h3 align="center">Backend Developer from India | Skilled in DSA and Problem Solving</h3>
+<h3 align="center">Backend Developer from India | Skilled in DSA & Problem Solving | Open Source Contributor</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-GSSoC'25-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Collaboration-Active-green?style=for-the-badge" />
+</p>
+
+---
 
 ## 💡 Highlights
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
 
 - 🌱 I’m currently learning **Rust, EVM, and Next.js**
+- 💼 **Open Source Contributor @ GSSoC'25**
+- 🤝 I’m open to **collaborating on open projects**
 - 💬 Ask me about **Backend Development, C++, and DSA**
-- 📫 How to reach me: **abdullahlko789@gmail.com**
+- 📫 Reach me at **abdullahlko789@gmail.com**
 
 ---
 
