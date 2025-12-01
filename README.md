@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ansari</h1>
-<h3 align="center">Backend Developer from India | Skilled in DSA & Problem Solving | Open Source Contributor</h3>
+<h3 align="center">Full Stack Developer from India | Skilled in DSA & Problem Solving | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-GSSoC'25-orange?style=for-the-badge" />
