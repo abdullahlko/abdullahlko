@@ -65,13 +65,3 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahlko&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Abdullah's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahlko&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Abdullah's GitHub Stats" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdullahlko&theme=dark&hide_border=true" alt="Abdullah's GitHub Stats" />
-</p>
