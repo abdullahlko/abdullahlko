@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust, EVM, and Next.js**  
 - 💼 **Open Source Contributor @ GSSoC'25**  
-- 🤝 I’m open to **collaborating on open projects**  
+- 🤝 I’m open to **collaborating on open-source projects**  
 - 💬 Ask me about **Backend Development, C++, and DSA**  
 - 📫 Reach me at **abdullahlko789@gmail.com**
 
