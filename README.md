@@ -1,32 +1,38 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ansari</h1>
-<h3 align="center">Full Stack Developer from India | Skilled in DSA & Problem Solving | Open Source Contributor</h3>
+<h3 align="center">B.Tech CSE (Data Science & AI) | DSA • ML • Open Source Contributor</h3>
 
 ---
 
-## 💡 Highlights
+### 🌱 About Me
+- Currently learning **DSA** and **Machine Learning**
+- Open to collaborating on **Open Source projects**
+- Ask me about **DSA, Machine Learning and Open Source Contributions**
+- 📫 Reach me at: abdullahlko789@gmail.com
 
-- 🌱 I’m currently learning **Rust, EVM, and Next.js**  
-- 💼 **Open Source Contributor @ GSSoC'25**  
-- 🤝 I’m open to **collaborating on open-source projects**  
-- 💬 Ask me about **Backend Development, C++, and DSA**  
-- 📫 Reach me at **abdullahlko789@gmail.com**
+---
+
+### 🏆 Achievements
+- 🎯 Top 7.2% among 3,000+ contributors @ GSSoC'25 (20+ merged PRs)
+- 🥇 1st Place @ CODEIU DSA Hackathon 2026
+- 🥈 2nd Place @ Smart India Hackathon 2025 (Internal Edition)
+- 🥈 Ranked 2nd out of 347 @ CodeQuest C/C++ Challenge 2025
+- 🥉 3rd Place @ CodeSprint Hackathon 2026 (Event & Club Management System)
+- 🥉 3rd Place @ DebugMania 2025 (Multi-language debugging contest)
+- 🎯 Ranked 32nd out of 16,837 @ NST Junior Coding Olympiad 2024
 
 ---
 
 ### 🌐 Connect with me
-
 <a href="https://linkedin.com/in/abdullahlko" target="_blank" style="margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-
-<a href="https://x.com/abdullahlko" target="_blank">
+<a href="https://x.com/abdullah_lko" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" height="30" width="40" />
 </a>
 
 ---
 
 ## 💻 Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -44,6 +50,9 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -51,6 +60,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
