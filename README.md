@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ansari</h1>
-<h3 align="center">B.Tech CSE (Data Science & AI) | DSA • ML • Open Source Contributor</h3>
+<h3 align="center">Google Student Ambassador '26 | B.Tech CSE (Data Science & AI) | DSA • ML • Open Source Contributor</h3>
 
 ---
 
@@ -12,6 +12,7 @@
 ---
 
 ### 🏆 Achievements
+- 🌟 Selected as Google Student Ambassador (2026 Cohort)
 - 🎯 Top 7.2% among 3,000+ contributors @ GSSoC'25 (20+ merged PRs)
 - 🥇 1st Place @ CODEIU DSA Hackathon 2026
 - 🥈 2nd Place @ Smart India Hackathon 2025 (Internal Edition)
@@ -22,13 +23,19 @@
 
 ---
 
-### 🌐 Connect with me
-<a href="https://linkedin.com/in/abdullahlko" target="_blank" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://x.com/abdullah_lko" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" height="30" width="40" />
-</a>
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdullahlko" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://x.com/abdullah_lko" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ---
 
